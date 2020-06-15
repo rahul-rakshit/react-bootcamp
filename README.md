@@ -10,3 +10,4 @@ This repo contains a minimal set of exercises to get you up to speed with [React
 | :------- | :---------- |
 | 1        | hello-world |
 | 2        | props       |
+| 3        | state       |
