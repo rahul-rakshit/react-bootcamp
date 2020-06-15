@@ -2,9 +2,9 @@
 
 ## About
 
-Non-interactive components neither interesting nor useful. We need our websites to respond to user interaction.
+Non-interactive components aren't particularly useful. We need our websites to respond to user interaction.
 
-In React, there is **only one** way you should make changes to the DOM. You update the component's state. This will make React recompute the new state of the DOM and repaint the changed DOM nodes.
+In React, there is **only one** way you should make changes to the DOM. You update the component's state. This will make React recompute what the DOM should look like and update the changed DOM nodes.
 
 In `SampleComponent.js`, you'll find a sample component with React state that you may may use as a reference for this exercise.
 
@@ -18,3 +18,7 @@ In `SampleComponent.js`, you'll find a sample component with React state that yo
 ## Hint
 
 Here's more info on the useState hook in the [react docs](https://reactjs.org/docs/hooks-state.html).
+
+## Questions
+
+Most modern UI frameworks, including React, have the concept of a virtual DOM. What is it? Explain in no more than two sentences.
