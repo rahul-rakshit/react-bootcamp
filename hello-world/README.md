@@ -1,4 +1,4 @@
-# Hello World Kata
+# Hello World Exercise
 
 ## About
 
